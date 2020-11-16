@@ -1,0 +1,1 @@
+This is a 2020 calendar application that helps you keep your productivity at its peak. With a realistic-looking calendar, the app helps you to keep tabs on all your schedules. Allowing you to go about your daily activities without the worry of missing an event or deadline.
